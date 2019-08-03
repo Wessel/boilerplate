@@ -2,5 +2,3 @@ web/
 src/tmp
 node_modules/
 src/application.yml
-.vscode/
-src/assets/util/
