@@ -1,4 +1,3 @@
-web/
+tmp/
 src/tmp
 node_modules/
-src/application.yml

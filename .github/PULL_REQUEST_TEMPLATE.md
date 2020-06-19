@@ -1,7 +1,7 @@
 ---
 name: Pull Request
 about: Propose changes to $(PROJECT_NAME)
-title: "[PR] This is an awesome idea i made!"
+title: "[PR] Your changes"
 labels: pullrequest
 assignees: PassTheWessel
 
