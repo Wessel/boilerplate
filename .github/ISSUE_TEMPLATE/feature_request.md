@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Request a feature for $(PROJECT_NAME)
-title: "[ENHANCEMENT] Your idiea"
+title: "[ENHANCEMENT] Your idea"
 labels: enhancement
 assignees: PassTheWessel
 
