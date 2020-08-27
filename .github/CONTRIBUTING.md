@@ -9,4 +9,4 @@ To get ready to work on the codebase, please do the following:
 1. Fork & clone the repository, and make sure you're on the **master** branch
 2. Run `yarn --dev` or `npm install --dev`
 4. Code your heart out and test using `yarn test` or `npm run test`
-6. [Submit a pull request](https://github.com/PassTheWessel/$(PROJECT_NAME)/compare)
+6. [Submit a pull request](https://github.com/Wessel/$(PROJECT_NAME)/compare)

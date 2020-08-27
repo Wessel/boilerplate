@@ -3,7 +3,7 @@ name: Bug Report
 about: Report an issue with $(PROJECT_NAME)
 title: "[BUG] Bug summed up in 1 sentence"
 labels: bug
-assignees: PassTheWessel
+assignees: Wessel
 
 ---
 

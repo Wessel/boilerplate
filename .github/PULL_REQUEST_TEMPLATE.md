@@ -3,7 +3,7 @@ name: Pull Request
 about: Propose changes to $(PROJECT_NAME)
 title: "[PR] Your changes"
 labels: pullrequest
-assignees: PassTheWessel
+assignees: Wessel
 
 ---
 
