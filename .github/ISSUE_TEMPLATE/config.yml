@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+# Example entry:
+#    name:
+#    url:
+#    about:
+contact_links:
+  - {{project.contact}}

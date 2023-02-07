@@ -2,6 +2,7 @@
   "env": {
     "es6": true,
     "amd": true,
+    "jest": true,
     "node": true,
     "mongo": true,
     "jquery": true,
