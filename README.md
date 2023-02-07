@@ -28,7 +28,7 @@ To update:
 
 {{info.desc}}
 
-<br>
+<br><br>
 
 <!---
 Example table of contents:
