@@ -38,8 +38,8 @@ To get ready to work on the codebase, please do the following:
 
 1. Fork & clone the repository, and make sure you are on the **master** branch
 2. Run {{setup.install}}
-4. Code your ideas and test them using {{setup.test}}
-6. [Submit a pull request](https://github.com/{{project.master}}/{{project.name}}/compare)
+3. Code your ideas and test them using {{setup.test}}
+4. [Submit a pull request](https://github.com/{{project.master}}/{{project.name}}/compare)
 
 ## Testing
 When creating any new functions, please also create unit tests for them in the `tests` directory.
