@@ -48,7 +48,7 @@ body:
   - type: input
     id: lang-version
     attributes:
-      label: {{project.lang}} version
+      label: '{{project.lang}} version'
       description: |
         Which version of {{project.lang}} are you using?
     validations:
