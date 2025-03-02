@@ -1,18 +1,12 @@
-# Adapted from https://github.com/discordjs/discord.js/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml
 name: Bug report
 description: Report incorrect or unexpected behavior of a package
 labels: [bug, need repro]
 body:
-  # - type: markdown
-  #   attributes:
-  #     value: |
-  #       Use Discord for questions: https://discord.gg/djs
   - type: dropdown
     id: package
     attributes:
       label: Which part is this bug report for?
-      options:
-        - {{tree.parts}}
+      options: {{tree.parts}}
     validations:
       required: true
   - type: textarea

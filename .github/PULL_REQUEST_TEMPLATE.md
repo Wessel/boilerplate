@@ -3,8 +3,6 @@ name: Pull Request
 about: Propose changes to {{project.name}}
 title: "[PR] Your changes"
 labels: pullrequest
-assignees: Wessel
-
 ---
 
 **Please describe the changes this PR makes and why it should be merged:**
